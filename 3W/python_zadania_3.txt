@@ -1,0 +1,3 @@
+1. Napisać prostą klasę (typu dataclass) przechowującą np. dane osobowe (imię, nazwisko, adres zamieszkania, kod pocztowy, pesel) i metode zapisujaca obiekty typu tej klasy do json, oraz metode odczytuja json'a i ladujace dane do klasy
+2. Napisać algorytm Dijkstry (przechodzenie najkrótszej scieżki w grafie)
+3. Zaimplementować algorytm Aho-Corasick do wyszukiwania wzorców w tekście.
